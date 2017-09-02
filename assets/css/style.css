@@ -1,4 +1,4 @@
-ul.nav.navbar-nav.navbar-center {
+ul.nav.navbar-nav.navbar {
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
@@ -16,4 +16,20 @@ img.connect-pic {
 .panel.panel-default {
 margin-left: 20px;
 margin-top: 50px;
+}
+
+.piccontainer {
+	margin-bottom: 20px;
+}
+
+.pic {
+	position: relative;
+	/*width: 200px;*/
+	height: 200px;
+}
+
+span {
+	position: absolute;
+	bottom: 80px;
+	/*width: 100%;*/
 }
