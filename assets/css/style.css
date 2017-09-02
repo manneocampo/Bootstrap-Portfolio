@@ -1,4 +1,4 @@
-ul.navbar {
+ul.nav.navbar-nav.navbar-center {
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
