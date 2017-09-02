@@ -24,19 +24,23 @@ margin-top: 50px;
 
 .pic {
 	position: relative;
-	/*width: 200px;*/
-	height: 200px;
+	width: 200px;
+	/*height: 200px;*/
 }
 
-.portfoliopic {
-	width: 200px;
+img.app-pic {
+	width: 100%;
 }
+
+/*.portfoliopic {
+	width: 200px;
+}*/
 
 span {
 	position: absolute;
 	bottom: 10px;
-	/*width: 100%;*/
-	margin: 10px;
+	width: 100%;
+	/*margin: 10px;*/
 	background-color: #4aaaa5;
 	color: #fff;
 	padding: 10px;
