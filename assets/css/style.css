@@ -44,8 +44,12 @@ span {
 
 .input-group {
 	margin: 50px 0px;
+	width: 100%;
+
 }
 
 .input-group-addon {
 	margin: 30px 0px;
+	width: 100%;
+	
 }
