@@ -12,3 +12,8 @@ img.img-responsive {
 img.connect-pic {
 	margin-left: 20px;
 }
+
+.panel.panel-default {
+margin-left: 20px;
+margin-top: 50px;
+}
